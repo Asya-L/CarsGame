@@ -1,0 +1,8 @@
+
+UnityDevKGD.sln
+
+.DS_Store
+
+obj/
+
+*.csproj
